@@ -1,0 +1,33 @@
+
+
+body {
+  background-image: url("https://eghoartculture.files.wordpress.com/2013/01/festival-of-rhythm-and-patterns-ii.jpg");
+  cursor: url("                                       http://www.ccpet.com/images/paw.png"),auto;
+  
+}
+
+h1 {
+  font-size: 50px;
+  font-family: Garamond;
+  color: purple;
+  text-align: center;
+}
+
+#divButton {
+  text-align:center;
+}
+
+button {
+  font-size: 30px;
+  color:blue;
+  background-color:yellow;
+}
+
+button:hover {
+  color: green;
+}
+
+#gameInstructions {
+  color: yellow;
+    font-size :30px;
+}
